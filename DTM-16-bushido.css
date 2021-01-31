@@ -307,6 +307,9 @@
     background: #242933;
     padding: 10px;
 }
+.clickable-1JJAn8.container-2Pjhx-:active, .selected-aXhQR6.container-2Pjhx- {
+    color: #ec4c56;
+}
 .clickable-25tGDB .header-2V-4Sw:hover, .clickable-25tGDB.selected-31Nl7x .header-2V-4Sw {background: #242933}
 .container-2Pjhx-.selected-aXhQR6 {border-left: none;background: linear-gradient(to right,#1d222b 85%,#242933)!important;box-shadow:inset 2px 0 #ec4c56}
 .layer-3QrUeG[aria-label*="_SETTINGS"] .tools-3-3s-N .closeButton-1tv5uR,.layer-3QrUeG[aria-label="RTC_DEBUG"] .tools-3-3s-N .closeButton-1tv5uR {border: none;background: #ec4c56;border-radius: 4px;padding:0 38px;transition:.2s;width:auto;padding:10px 20px}
